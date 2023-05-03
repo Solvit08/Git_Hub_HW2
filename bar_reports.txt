@@ -1,0 +1,14 @@
+Bag report
+ID - A1
+Severity - critical
+environment - Win 10 home Chrome 112
+title - The button [Trade], in page [Partnership programme], after click, transfers to the main page
+Steps - 1. Navigate to capital.com
+        2. Hover over menu section[More]
+	3. Click menu item [Partnership programme]\
+	4. Click button [Trade]
+Expected result - Sign up form is opened
+Actual result - Redirects to the main page
+Attachment - Link
+Bug started - @Solvit08
+
